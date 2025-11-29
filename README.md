@@ -1,5 +1,5 @@
 # Low-Rank Head Avatar Personalization with Registers (NeurIPS 2025)
-Code for [Low-Rank Head Avatar Personalization with Registers](https://openreview.net/pdf?id=mhARf5VzCn "https://openreview.net"). Also available on [arxiv](https://arxiv.org/abs/2506.01935)
+Code for [Low-Rank Head Avatar Personalization with Registers](https://openreview.net/pdf?id=mhARf5VzCn "https://openreview.net"). Also available on [arxiv](https://arxiv.org/abs/2506.01935). [Project Page](https://starc52.github.io/publications/2025-05-28-LoRAvatar/)
 ## Usage
 ```
 cd LoRAvatar
