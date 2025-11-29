@@ -1,4 +1,6 @@
 # Low-Rank Head Avatar Personalization with Registers (NeurIPS 2025)
+Code for [Low-Rank Head Avatar Personalization with Registers](https://openreview.net/pdf?id=mhARf5VzCn "https://openreview.net"). Also available on [arxiv](https://arxiv.org/abs/2506.01935)
+## Usage
 ```
 cd LoRAvatar
 ```
@@ -83,6 +85,6 @@ title={Low-Rank Head Avatar Personalization with Registers},
 author={Sai Tanmay Reddy Chakkera and Aggelina Chatziagapi and Md Moniruzzaman and Chen-ping Yu and Yi-Hsuan Tsai and Dimitris Samaras},
 booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
 year={2025},
-url={https://openreview.net/forum?id=mhARf5VzCn}
+url={(https://openreview.net/pdf?id=mhARf5VzCn)}
 }
 ```
