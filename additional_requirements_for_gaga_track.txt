@@ -1,0 +1,4 @@
+scipy
+shapely
+trimesh
+pytorch3d==0.7.6
