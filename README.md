@@ -72,3 +72,17 @@ This code has been adapted from and built on top of GAGAvatar and GAGAvatar_trac
 * StyleMatte: https://github.com/chroneus/stylematte
 * EMICA: https://github.com/radekd91/inferno
 * VGGHead: https://github.com/KupynOrest/head_detector
+
+
+If you use this work, please be so kind to cite us: 
+
+```
+@inproceedings{
+chakkera2025lowrank,
+title={Low-Rank Head Avatar Personalization with Registers},
+author={Sai Tanmay Reddy Chakkera and Aggelina Chatziagapi and Md Moniruzzaman and Chen-ping Yu and Yi-Hsuan Tsai and Dimitris Samaras},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=mhARf5VzCn}
+}
+```
