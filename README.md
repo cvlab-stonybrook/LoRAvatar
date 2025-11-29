@@ -1,10 +1,9 @@
-# Low-Rank Head Avatar Personalization with Registers
-
+# Low-Rank Head Avatar Personalization with Registers (NeurIPS 2025)
 ```
 cd LoRAvatar
 ```
 
-### Build environment
+### Build environment (from GAGAvatar)
 ```
 conda env create -f environment.yml
 conda activate GAGAvatar
